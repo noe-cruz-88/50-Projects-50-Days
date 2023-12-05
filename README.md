@@ -12,3 +12,4 @@
 | 07  | [Split Landing Page](https://github.com/noe-cruz-88/50-Projects-50-Days/tree/main/split-landing-page)                       | [Live Demo](https://codepen.io/noe_cruz_88/pen/QWYvMyg)                           |
 | 08  | [Form Input Wave](https://github.com/noe-cruz-88/50-Projects-50-Days/tree/main/form-input-wave)                             | [Live Demo](https://codepen.io/noe_cruz_88/pen/wvNepZe)                           |
 | 09  | [Sounds Board](https://github.com/noe-cruz-88/50-Projects-50-Days/tree/main/sound-board)                                    | [Live Demo](https://codepen.io/noe_cruz_88/pen/poGpQWZ)                           |
+| 10  | [Dad Jokes](https://github.com/noe-cruz-88/50-Projects-50-Days/tree/main/dad-jokes)                                         | [Live Demo](https://codepen.io/noe_cruz_88/pen/jOdXqyV)                           |
